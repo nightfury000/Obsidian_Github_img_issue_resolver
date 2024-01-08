@@ -2,4 +2,4 @@ This is for bash & regex notes
 img syntax in obsidian ![[Pasted image 20231221215325.png]]
 it should be converted to ![Pasted image 20231221215325.png](Pasted image 20231221215325.png)
 In bash egrep -r
-So in regex (Pasted image)
+So in regex (Pasted image) ?.png
