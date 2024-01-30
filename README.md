@@ -5,7 +5,7 @@ The plan is to create a script that replaces the obsidian img syntax to github i
 For example in this repo [DevOps notes repo](https://github.com/pineapples5972/GroupStudy/tree/main/DevOps/obsidian-Notes/DevOps) the images are not rendered properly. Link to [images](https://github.com/pineapples5972/GroupStudy/tree/main/DevOps/obsidian-Notes/attachments/Images)
 
 - [ ] A generalised script that works for all files and images in that
-- [ ] Making a Ci/Cd through github workflow (for e.g when one uploads a .md file and images first the image is syntax is replaced to match github readme syntax and then the images will directly be placed in https://github.com/nightfury000/Obsidian_Github_img_issue_resolver.git)
+- [ ] Making a Ci/Cd through github workflow (for e.g when one uploads a .md file and images first the image is moved to images directory and then syntax is replaced to match github readme syntax and then the images will directly be placed in https://github.com/nightfury000/Obsidian_Github_img_issue_resolver.git)
 
 
 
