@@ -6,8 +6,5 @@ start_dir="$1"
 # Specify the target directory to move PNG files to
 images_dir="images"
 
-# Create the images directory if it doesn't exist
-mkdir -p "$images_dir"
-
 # Recursively find PNG files and move them
 find "$start_dir" -type f -name "*.png" -exec mv -i {} "$images_dir" \;
